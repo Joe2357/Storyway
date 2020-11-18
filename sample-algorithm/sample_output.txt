@@ -1,0 +1,6 @@
+case 0
+    time used : 40
+    travel path : Start -> B -> A -> 
+case 1
+    time used : 56
+    travel path : Start -> B -> D -> 
