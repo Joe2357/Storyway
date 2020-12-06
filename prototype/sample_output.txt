@@ -4,3 +4,4 @@ case 0
 case 1
     time used : 56
     travel path : Start -> B -> D -> 
+
