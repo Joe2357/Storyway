@@ -1,6 +1,6 @@
 # StoryWay
 
-> 2020 - 2학기 Algorithm Term Project
+> 2020 - 2학기 Algorithm Term Project  
 > By using Java
 
 ## 용도
