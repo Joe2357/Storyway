@@ -36,3 +36,9 @@
 ![checkinfo](./img/checkinfo.png)
 
 ![showretval](./img/showretval.png)
+
+## Contributor
+
+- 정재원 ([@Joe2357](https://github.com/Joe2357)) : 경로 도출 프로토타입 구현, 백엔드 구현
+- 유지연 ([@yougi8](https://github.com/yougi8)) : jsp 제작, 프론트엔드 웹페이지 서버 구현
+- 최완규 () : 웹페이지에 네이버지도 추가
